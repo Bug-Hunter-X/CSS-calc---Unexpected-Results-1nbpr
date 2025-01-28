@@ -1,0 +1,1 @@
+To ensure accurate calculations, always use parentheses to explicitly define operator precedence and maintain consistent units. For example, instead of `calc(100% - 10px)`, consider using `calc(100% - 10px)` within a container with explicitly defined dimensions, or alternatively calculate the pixel value separately and use that instead.
